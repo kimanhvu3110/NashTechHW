@@ -1,0 +1,6 @@
+ In Selenium, Wait plays an importan role when executing testcases. In some circumstances, the rate of internet or data is to big when connect to server, can not catch up with script test rate. Then Wait will solve this problem
+
+ There are 2 types of wait:
+ - Implicit wait: Ask the web driver to pause a certain period of time that have been set initially, before turning on an exception.
+
+- Explicit: different with implicit . In stead of waiting an initial time, it waits a specific condition go through time . This shoule be write in a method.
