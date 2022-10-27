@@ -1,3 +1,4 @@
+using NuGet.Frameworks;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
@@ -22,24 +23,23 @@ namespace testPOM
         }
 
         [Test]
-        public void Test1()
+        public void TestTitleSearchedPage ()
         {
+            //Access to Chrome
             _driver.Navigate().GoToUrl("https://www.google.com");
             string inputt = "Waiting for you";
+
+            //Compare title web
             Pages page = new Pages(_driver);
             HeaderPage headerPage = new HeaderPage(_driver);
             headerPage.Search(inputt);
             page = headerPage.Enterp();
             Thread.Sleep(1000);
-            if(page.CompareString(inputt) == true)
-            {
-                Console.WriteLine("Match with title");
-            }
-            else
-            {
-                Console.WriteLine("Not match with title");
-            }
+            Assert.IsTrue(page.CompareString(inputt));
+
+            //Verify text in next page
             _driver.Navigate().GoToUrl(page.linkToFirstResult());
+            Assert.IsNotEmpty(inputt);
             //Console.WriteLine("hi");
         }
     }

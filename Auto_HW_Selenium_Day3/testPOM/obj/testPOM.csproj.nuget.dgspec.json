@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\autoSelenium\\testPOM\\testPOM\\testPOM.csproj": {}
+    "D:\\gitonl\\NashTechHW\\Auto_HW_Selenium_Day3\\testPOM\\testPOM.csproj": {}
   },
   "projects": {
-    "D:\\autoSelenium\\testPOM\\testPOM\\testPOM.csproj": {
+    "D:\\gitonl\\NashTechHW\\Auto_HW_Selenium_Day3\\testPOM\\testPOM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\autoSelenium\\testPOM\\testPOM\\testPOM.csproj",
+        "projectUniqueName": "D:\\gitonl\\NashTechHW\\Auto_HW_Selenium_Day3\\testPOM\\testPOM.csproj",
         "projectName": "testPOM",
-        "projectPath": "D:\\autoSelenium\\testPOM\\testPOM\\testPOM.csproj",
+        "projectPath": "D:\\gitonl\\NashTechHW\\Auto_HW_Selenium_Day3\\testPOM\\testPOM.csproj",
         "packagesPath": "C:\\Users\\black\\.nuget\\packages\\",
-        "outputPath": "D:\\autoSelenium\\testPOM\\testPOM\\obj\\",
+        "outputPath": "D:\\gitonl\\NashTechHW\\Auto_HW_Selenium_Day3\\testPOM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\black\\AppData\\Roaming\\NuGet\\NuGet.Config",

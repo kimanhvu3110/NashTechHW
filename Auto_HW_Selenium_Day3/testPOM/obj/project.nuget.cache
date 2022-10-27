@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VUovEfEo60IDR0VSiROvyX0oOMX3v6MS/SQs7Ag3NrsW4WayoMUj+mEYEYwLa8NfIO4NGTfLos2KpVCBqYgtAw==",
+  "dgSpecHash": "TMZ4x7QUtifKJnvdOYOQacBRAZd61I6tWzVGW6I/eM7canc0dc8qaR7KCTcEeNTCeH3O+ySp6VRTSEEk2xxAyw==",
   "success": true,
-  "projectFilePath": "D:\\autoSelenium\\testPOM\\testPOM\\testPOM.csproj",
+  "projectFilePath": "D:\\gitonl\\NashTechHW\\Auto_HW_Selenium_Day3\\testPOM\\testPOM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\black\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\black\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
