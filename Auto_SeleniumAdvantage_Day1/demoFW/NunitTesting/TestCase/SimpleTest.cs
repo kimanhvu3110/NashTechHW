@@ -29,10 +29,10 @@ namespace TestCase
 
         {
             HomePage homePage = new HomePage(_driver);
-            homePage.InputSearchBox("ABC");
+            homePage.SendKeys("//input[@id='search']", "Waiting for you");
             homePage.Click("//input[@id='search']");
 
-            homePage.CheckTitle("ABC");
+            homePage.CheckTitle("Waiting for you");
 
             //loginPage loginPage = new loginPage(_driver);
             //loginPage.inputUserName("test");
