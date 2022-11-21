@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\autoSelenium\\demoFW\\NunitTesting\\Automation.csproj": {}
+    "D:\\gitonl\\NashTechHW\\Auto_SeleniumAdvantage_Day1\\demoFW\\NunitTesting\\Automation.csproj": {}
   },
   "projects": {
-    "D:\\autoSelenium\\demoFW\\demoFW\\CoreFramework.csproj": {
+    "D:\\gitonl\\NashTechHW\\Auto_SeleniumAdvantage_Day1\\demoFW\\demoFW\\CoreFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\autoSelenium\\demoFW\\demoFW\\CoreFramework.csproj",
+        "projectUniqueName": "D:\\gitonl\\NashTechHW\\Auto_SeleniumAdvantage_Day1\\demoFW\\demoFW\\CoreFramework.csproj",
         "projectName": "CoreFramework",
-        "projectPath": "D:\\autoSelenium\\demoFW\\demoFW\\CoreFramework.csproj",
+        "projectPath": "D:\\gitonl\\NashTechHW\\Auto_SeleniumAdvantage_Day1\\demoFW\\demoFW\\CoreFramework.csproj",
         "packagesPath": "C:\\Users\\black\\.nuget\\packages\\",
-        "outputPath": "D:\\autoSelenium\\demoFW\\demoFW\\obj\\",
+        "outputPath": "D:\\gitonl\\NashTechHW\\Auto_SeleniumAdvantage_Day1\\demoFW\\demoFW\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\black\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,14 +101,14 @@
         }
       }
     },
-    "D:\\autoSelenium\\demoFW\\NunitTesting\\Automation.csproj": {
+    "D:\\gitonl\\NashTechHW\\Auto_SeleniumAdvantage_Day1\\demoFW\\NunitTesting\\Automation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\autoSelenium\\demoFW\\NunitTesting\\Automation.csproj",
+        "projectUniqueName": "D:\\gitonl\\NashTechHW\\Auto_SeleniumAdvantage_Day1\\demoFW\\NunitTesting\\Automation.csproj",
         "projectName": "Automation",
-        "projectPath": "D:\\autoSelenium\\demoFW\\NunitTesting\\Automation.csproj",
+        "projectPath": "D:\\gitonl\\NashTechHW\\Auto_SeleniumAdvantage_Day1\\demoFW\\NunitTesting\\Automation.csproj",
         "packagesPath": "C:\\Users\\black\\.nuget\\packages\\",
-        "outputPath": "D:\\autoSelenium\\demoFW\\NunitTesting\\obj\\",
+        "outputPath": "D:\\gitonl\\NashTechHW\\Auto_SeleniumAdvantage_Day1\\demoFW\\NunitTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\black\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -125,8 +125,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\autoSelenium\\demoFW\\demoFW\\CoreFramework.csproj": {
-                "projectPath": "D:\\autoSelenium\\demoFW\\demoFW\\CoreFramework.csproj"
+              "D:\\gitonl\\NashTechHW\\Auto_SeleniumAdvantage_Day1\\demoFW\\demoFW\\CoreFramework.csproj": {
+                "projectPath": "D:\\gitonl\\NashTechHW\\Auto_SeleniumAdvantage_Day1\\demoFW\\demoFW\\CoreFramework.csproj"
               }
             }
           }
